@@ -281,7 +281,7 @@ function Hero({ setActive }) {
             GitHub ↗
           </a>
 
-          <a href="mailto:vinaykumar@example.com" style={{
+          <a href="mailto:vinayelusuri175@gmail.com" style={{
             background: "rgba(255,255,255,0.05)",
             border: "1px solid rgba(255,255,255,0.12)",
             borderRadius: 100,
@@ -991,7 +991,7 @@ function Contact() {
     { label: "GitHub", url: "https://github.com/vinaykumar-2007", icon: "🐙", desc: "View my code" },
     { label: "LinkedIn", url: "https://www.linkedin.com/in/vinayelusuri", icon: "💼", desc: "Connect professionally" },
     { label: "LeetCode", url: "https://leetcode.com/u/vinaykumarelusuri/", icon: "⚡", desc: "See my solutions" },
-    { label: "Email", url: "mailto:vinay@example.com", icon: "✉️", desc: "Reach out directly" },
+    { label: "Email", url: "mailto:vinayelusuri175@gmail.com", icon: "✉️", desc: "Reach out directly" },
   ];
 
   return (
