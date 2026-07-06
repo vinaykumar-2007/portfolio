@@ -302,7 +302,7 @@ function Hero({ setActive }) {
           display: "flex", gap: 48, justifyContent: "center", marginTop: 80,
           animation: "fadeInDown 0.8s ease 0.5s both",
         }}>
-          {[["8.94", "CGPA"], ["6+", "Certifications"], ["40+", "LeetCode"], ["3", "GitHub Repos"]].map(([val, label]) => (
+          {[["8.96", "CGPA"], ["6+", "Certifications"], ["40+", "LeetCode"], ["3", "GitHub Repos"]].map(([val, label]) => (
             <div key={label} style={{ textAlign: "center" }}>
               <div style={{ fontSize: 28, fontWeight: 700, color: "#c4b5fd" }}>{val}</div>
               <div style={{ fontSize: 11, color: "rgba(255,255,255,0.35)", letterSpacing: "0.08em", textTransform: "uppercase", marginTop: 4 }}>{label}</div>
