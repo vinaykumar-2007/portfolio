@@ -410,7 +410,7 @@ function SectionHeader({ eyebrow, title, subtitle }) {
 // ─── About Section ────────────────────────────────────────────────────────────
 function About() {
   const stats = [
-    { val: 8.94, suffix: "", label: "CGPA", prefix: "" },
+    { val: 8.96, suffix: "", label: "CGPA", prefix: "" },
     { val: 6, suffix: "+", label: "Certifications", prefix: "" },
     { val: 40, suffix: "+", label: "LeetCode Solved", prefix: "" },
     { val: 3, suffix: "", label: "GitHub Repos", prefix: "" },
